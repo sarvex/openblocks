@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <rect id="icon-show-border_svg__a" x="1" y="1" width="14" height="14" rx="2"/>
-    <mask id="icon-show-border_svg__b" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
-      <use xlink:href="#icon-show-border_svg__a"/>
-    </mask>
-  </defs>
-  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <use stroke="currentColor" mask="url(#icon-show-border_svg__b)" stroke-width="2" stroke-dasharray="2,1" xlink:href="#icon-show-border_svg__a"/>
-    <g transform="translate(4.500000, 4.500000)" fill="currentColor">
-      <rect x="0" y="0" width="3" height="3" rx="0.5"/>
-      <rect x="0" y="4" width="3" height="3" rx="0.5"/>
-      <rect x="4" y="0" width="3" height="3" rx="0.5"/>
-      <rect x="4" y="4" width="3" height="3" rx="0.5"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><defs><rect id="icon-show-border_svg__a" width="14" height="14" x="1" y="1" rx="2"/><mask id="icon-show-border_svg__b" width="14" height="14" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox"><use xlink:href="#icon-show-border_svg__a"/></mask></defs><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><use stroke="currentColor" stroke-dasharray="2 1" stroke-width="2" mask="url(#icon-show-border_svg__b)" xlink:href="#icon-show-border_svg__a"/><g fill="currentColor" transform="translate(4.500000, 4.500000)"><rect width="3" height="3" x="0" y="0" rx=".5"/><rect width="3" height="3" x="0" y="4" rx=".5"/><rect width="3" height="3" x="4" y="0" rx=".5"/><rect width="3" height="3" x="4" y="4" rx=".5"/></g></g></svg>

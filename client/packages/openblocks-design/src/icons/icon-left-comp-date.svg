@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="16" height="16"></rect>
-        <g transform="translate(1.000000, 1.500000)" stroke="#8B8FA3" stroke-width="1.5">
-            <rect x="1.25" y="1.75" width="11.5" height="10.5" rx="2.5"></rect>
-            <line x1="1.5" y1="6" x2="11.5" y2="6" stroke-linecap="square"></line>
-            <g transform="translate(4.500000, 0.500000)" stroke-linecap="round">
-                <line x1="0.5" y1="4.16333634e-17" x2="0.5" y2="3"></line>
-                <line x1="4.5" y1="4.16333634e-17" x2="4.5" y2="3"></line>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect width="16" height="16" x="0" y="0"/><g stroke="#8B8FA3" stroke-width="1.5" transform="translate(1.000000, 1.500000)"><rect width="11.5" height="10.5" x="1.25" y="1.75" rx="2.5"/><line x1="1.5" x2="11.5" y1="6" y2="6" stroke-linecap="square"/><g stroke-linecap="round" transform="translate(4.500000, 0.500000)"><line x1=".5" x2=".5" y1="0" y2="3"/><line x1="4.5" x2="4.5" y1="0" y2="3"/></g></g></g></svg>

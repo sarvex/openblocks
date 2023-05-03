@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="16" height="16"></rect>
-        <g transform="translate(1.000000, 1.000000)">
-            <rect stroke="#8B8FA3" stroke-width="1.5" x="0" y="0" width="14" height="14" rx="2"></rect>
-            <line x1="0.5" y1="5" x2="13.5" y2="5" stroke="#8B8FA3" stroke-width="1.5" stroke-linecap="round"></line>
-            <rect fill="#8B8FA3" x="7" y="8.5" width="5" height="3" rx="1"></rect>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect width="16" height="16" x="0" y="0"/><g transform="translate(1.000000, 1.000000)"><rect width="14" height="14" x="0" y="0" stroke="#8B8FA3" stroke-width="1.5" rx="2"/><line x1=".5" x2="13.5" y1="5" y2="5" stroke="#8B8FA3" stroke-linecap="round" stroke-width="1.5"/><rect width="5" height="3" x="7" y="8.5" fill="#8B8FA3" rx="1"/></g></g></svg>
