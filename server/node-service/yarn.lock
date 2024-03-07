@@ -8123,9 +8123,9 @@ __metadata:
   linkType: hard
 
 "jose@npm:^4.10.4":
-  version: 4.11.4
-  resolution: "jose@npm:4.11.4::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjose%2F-%2Fjose-4.11.4.tgz"
-  checksum: ab870d61e3721cfa1059b1a79cfc2fce06586c8afd4164362e1725934a635191bd938893ebdfac55a0811efbe9b6fd650bbf82d36d87e8a0b7cb4b0379328dab
+  version: 4.15.5
+  resolution: "jose@npm:4.15.5"
+  checksum: 7dde76447c7707bd4b448f914b216f3858e701aa83f00447434252461af5b9e159dcbffb88badea3f9616739526763581267c9560622f0a058df8d68c86d7f79
   languageName: node
   linkType: hard
 
